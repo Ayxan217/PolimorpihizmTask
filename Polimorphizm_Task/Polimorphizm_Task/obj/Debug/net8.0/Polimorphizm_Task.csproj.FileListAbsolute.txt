@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Polimorphizm_Task\Polimorphizm_Task\bin\Debug\net8.0\Polimorphizm_Task.exe
+C:\Users\pc\source\repos\Polimorphizm_Task\Polimorphizm_Task\bin\Debug\net8.0\Polimorphizm_Task.deps.json
+C:\Users\pc\source\repos\Polimorphizm_Task\Polimorphizm_Task\bin\Debug\net8.0\Polimorphizm_Task.runtimeconfig.json
+C:\Users\pc\source\repos\Polimorphizm_Task\Polimorphizm_Task\bin\Debug\net8.0\Polimorphizm_Task.dll
+C:\Users\pc\source\repos\Polimorphizm_Task\Polimorphizm_Task\bin\Debug\net8.0\Polimorphizm_Task.pdb
+C:\Users\pc\source\repos\Polimorphizm_Task\Polimorphizm_Task\obj\Debug\net8.0\Polimorphizm_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Polimorphizm_Task\Polimorphizm_Task\obj\Debug\net8.0\Polimorphizm_Task.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Polimorphizm_Task\Polimorphizm_Task\obj\Debug\net8.0\Polimorphizm_Task.AssemblyInfo.cs
+C:\Users\pc\source\repos\Polimorphizm_Task\Polimorphizm_Task\obj\Debug\net8.0\Polimorphizm_Task.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Polimorphizm_Task\Polimorphizm_Task\obj\Debug\net8.0\Polimorphizm_Task.dll
+C:\Users\pc\source\repos\Polimorphizm_Task\Polimorphizm_Task\obj\Debug\net8.0\refint\Polimorphizm_Task.dll
+C:\Users\pc\source\repos\Polimorphizm_Task\Polimorphizm_Task\obj\Debug\net8.0\Polimorphizm_Task.pdb
+C:\Users\pc\source\repos\Polimorphizm_Task\Polimorphizm_Task\obj\Debug\net8.0\Polimorphizm_Task.genruntimeconfig.cache
+C:\Users\pc\source\repos\Polimorphizm_Task\Polimorphizm_Task\obj\Debug\net8.0\ref\Polimorphizm_Task.dll
